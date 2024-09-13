@@ -6,7 +6,3 @@ __author__ = "730776458"
 def greet(name: str) -> str:
     """A welcoming first function definition."""
     return "Hello, " + name + "!"
-
-
-greet(name="Campers")
-greet(name="Selinda")
